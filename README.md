@@ -22,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taygib&theme=solarized_dark)
 
 
 <!--
