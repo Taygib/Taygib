@@ -21,9 +21,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=X5Group_Test)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
 
-
+## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taygib&theme=solarized_dark)
 
+
+<td colspan="2" align="center">
+<details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+<details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+<img width="900" height="1" alt="">
+</td>
 
 <!--
 **Taygib/Taygib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
