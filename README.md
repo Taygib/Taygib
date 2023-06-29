@@ -29,6 +29,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taygib&theme=solarized_dark)
 </h1>
 
+<td colspan="2" align="center">
+<details open><summary>Repositories from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
+<details open><summary>Languages from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
+<img width="900" height="1" alt="">
+</td>
+
 
 <h3 colspan="2" align="center">
 <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
