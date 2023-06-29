@@ -25,34 +25,16 @@
 <p align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taygib&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taygib&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taygib&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taygib&theme=solarized_dark)
 </p>
+
 
 <td colspan="2" align="center">
 <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
 <img width="900" height="1" alt="">
 </td>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 <!--
