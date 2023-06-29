@@ -1,4 +1,30 @@
-### Hi there 👋
+## <p align="center"> Всем привет 👋 </p>
+## Контакты:
+
+#### Телеграм 
+<a href="https://t.me/ITaygib"><img width="4%" title="Telegram" src="materials/pictures/Telegram.png"> </a>
+
+<h2>  Cтек </h2>
+<p align="center">
+  <img width="6%" title="IDEA" src="materials/pictures/IDEA.png"> 
+  <img width="6%" title="Selenide" src="materials/pictures/Selenide.png">
+  <img width="6%" title="Selenoid" src="materials/pictures/Selenoid.png">
+  <img width="6%" title="Gradle" src="materials/pictures/Gradle.png">
+  <img width="6%" title="Allure Report" src="materials/pictures/Allure Report.png" >
+  <img width="6%" title="GitHub" src="materials/pictures/GitHub.png"> 
+  <img width="6%" title="Telegram" src="materials/pictures/Telegram.png">
+  <img width="6%" title="Jenkins" src="materials/pictures/Jenkins.png"> 
+  <img width="6%" title="Java" src="materials/pictures/Java.png">
+</p>
+
+## Проекты:
+### Дипломный проект по автоматизации тестирования Web и API:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=X5Group_Test)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
+
+
+
+
 
 <!--
 **Taygib/Taygib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
