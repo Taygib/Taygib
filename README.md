@@ -1,8 +1,7 @@
 ## <p align="center"> Всем привет 👋 </p>
 ## Контакты:
 
-#### Телеграм 
-<a href="https://t.me/ITaygib"><img width="4%" title="Telegram" src="materials/pictures/Telegram.png"> </a>
+<a href="https://t.me/ITaygib"><img width="10%" title="Telegram" src="materials/pictures/Telegram1.png"> </a>
 
 <h2>  Cтек </h2>
 <p align="center">
