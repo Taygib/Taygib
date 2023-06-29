@@ -22,18 +22,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
 
 ## Stats
-<p align="center">
+<h1 align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taygib&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taygib&theme=solarized_dark)
-</p>
+</h1>
 
 
-<td colspan="2" align="center">
+<h3 colspan="2" align="center">
 <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
 <img width="900" height="1" alt="">
-</td>
+</h3>
 
 
 
