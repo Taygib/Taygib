@@ -18,11 +18,13 @@
 
 ## Проекты:
 ### Дипломный проект по автоматизации тестирования Web и API:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=X5Group_Test)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=X5Group_Test&show_icons=true&theme=chartreuse-dark)](https://github.com/Taygib/X5Group_Test/tree/FiveTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project&show_icons=true&theme=holi)](https://github.com/Taygib/API-project)
 
 ## Stats
 <h1 align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taygib&show_icons=true&theme=codeSTACKr)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taygib&theme=solarized_dark)
 
