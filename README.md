@@ -19,7 +19,7 @@
 ## Проекты:
 ### Дипломный проект по автоматизации тестирования Web и API:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=UI_X5Group_Test&show_icons=true&theme=chartreuse-dark)](https://github.com/Taygib/UI_X5Group_Test/tree/master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API-project&show_icons=true&theme=holi)](https://github.com/Taygib/API-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taygib&repo=API_Trello_test&show_icons=true&theme=holi)](https://github.com/Taygib/API_Trello_test)
 
 ## Stats
 <h1 align="center">
